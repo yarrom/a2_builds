@@ -7,4 +7,4 @@
 
 # Legend
 
-WinA2MiniXX.zip - Build of A2 Operating System with minimal amount of applications and without contributed code. Despite the minimum size this build includes whole A2 component library, compiler and development environment - all this in source and compiled form!
+**WinA2MiniXX.zip** - Build of A2 Operating System with minimal amount of applications and without contributed code. Despite the minimum size this build includes whole A2 OS component library, compiler and development environment - all this in source and compiled form! You can easily rebuild whole system from sources just by several mouse clicks! Click **Rebuild** button in **Develop** section of main menu and then double click by **System.DoCommands** text (such texts called _command_) in opened window.
