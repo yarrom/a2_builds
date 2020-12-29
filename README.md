@@ -11,4 +11,4 @@
 
 **WinA2Mini(32|64).zip** - The same WinA2 build as .zip archive.
 
-**DarwinA2 (32|64) Installer.dmg** - The drive image with installer for Mac OS X / macOS. **Important note**: _X11 is no longer included with macOS, but X11 server and client libraries are available from the XQuartz project. Install XQuartz manually before installation of A2 (Use a community-supported version of the X11 windowing system for Mac OS-X 10.6.3 or later. Please visit http://www.xquartz.org for more information)_.
+**DarwinA2 (32|64) Installer.dmg** - The drive image with installer for Mac OS X / macOS. Installer uses [builds](http://www.informatik.uni-bremen.de/~fld/UnixAos/) maintained by Guenter Feldmann. **Important note**: _X11 is no longer included with macOS, but X11 server and client libraries are available from the XQuartz project. Install XQuartz manually before installation of A2 (Use a community-supported version of the X11 windowing system for Mac OS-X 10.6.3 or later. Please visit http://www.xquartz.org for more information)_.
