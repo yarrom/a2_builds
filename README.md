@@ -1,13 +1,13 @@
 # Binary builds of A2 Operating System
 
-**A2 Operating System ([A2 OS home](http://cas.inf.ethz.ch/projects/a2)) - former AOS (Active Objects System) / Bluebottle OS, modular Operating System written on high level Active Oberon programming language with a few amount of assembly code. A2 OS may run on a bare hardware (Intel x86 / AMD x64 / ARM) or as application under Win / Linux / Mac OS.**
+**A2 Operating System ([A2 OS home](http://cas.inf.ethz.ch/projects/a2)) - former AOS (Active Objects System) / Bluebottle OS, modular Operating System written on high level Active Oberon programming language with a small amount of assembly code. A2 OS may run on bare hardware (Intel x86 / AMD x64 / ARM) or as an application under Win / Linux / Mac OS.**
 
-**Active Oberon programming language ([ETH Oberon (2019) Language Report](http://cas.inf.ethz.ch/projects/a2/repository/raw/trunk/LanguageReport/OberonLanguageReport.pdf)) - result of evolution of Oberon-2 programming language, that encapsulates multithreading and synchronization primitives by utilizing concept of Active Objects and Exclusive / Await blocks respectively. Active Oberon programming language includes such modern features as operator overloading, generics and mathematical matrix extentions.**
+**Active Oberon programming language ([ETH Oberon (2019) Language Report](http://cas.inf.ethz.ch/projects/a2/repository/raw/trunk/LanguageReport/OberonLanguageReport.pdf)) - result of evolution of Oberon-2 programming language, that encapsulates multithreading and synchronization primitives by utilizing the concept of Active Objects and Exclusive / Await blocks respectively. Active Oberon programming language includes such modern features as operator overloading, generics and mathematical matrix extensions.**
 
 
 # Legend
 
-**WinA2 mini (32|64).exe** - The installer for build of A2 Operating System with minimal amount of applications and without contributed code. Despite the minimum size this build includes whole A2 OS component library, compiler and development environment - all this in source and compiled form! You can easily rebuild whole system from sources just by several mouse clicks! Click **Rebuild** button in **Develop** section of main menu and then double click by **System.DoCommands** text (such texts called _commands_) in opened window.
+**WinA2 mini (32|64).exe** - The installer for build of A2 Operating System with minimal amount of applications and without contributed code. Despite the minimum size this build includes the whole A2 OS component library, compiler and development environment - all this in source and compiled form! You can easily rebuild the whole system from sources just by several mouse clicks! Click the **Rebuild** button in the **Develop** section of the main menu and then double click by **System.DoCommands** text (such texts called _commands_) in the opened window.
 
 **WinA2Mini(32|64).zip** - The same WinA2 mini build as .zip archive.
 
