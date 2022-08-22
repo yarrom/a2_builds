@@ -1,5 +1,0 @@
-WinA2:
-SVN Rev. 9910
-
-DarwinA2:
-SVN Rev. 9799
