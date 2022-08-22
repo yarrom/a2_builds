@@ -11,9 +11,9 @@
 
 **A2HDD_(x86|x64)_rev_XXXXX.7z** – Full A2 bootable HDD image.
 
-**A2mini_(x86|x64)_rev_XXXXX.7z** – Mini A2 bootable ISO image. A2 Operating System image with minimal amount of applications and without contributed code. Despite the minimum size this build includes the whole A2 OS component library, compiler and development environment - all this in source and compiled form!
-
 **A2USB_(x86|x64)_rev_XXXXX.7z** – Full A2 bootable USB image.
+
+**A2mini_(x86|x64)_rev_XXXXX.7z** – Mini A2 bootable ISO image. A2 Operating System image with minimal amount of applications and without contributed code. Despite the minimum size this build includes the whole A2 OS component library, compiler and development environment - all this in source and compiled form!
 
 **WinA2mini_(x86|x64)_rev_XXXXX.exe** - The installer for build of A2 Operating System with minimal amount of applications and without contributed code. Despite the minimum size this build includes the whole A2 OS component library, compiler and development environment - all this in source and compiled form! You can easily rebuild the whole system from sources just by several mouse clicks! Click the **Rebuild** button in the **Develop** section of the main menu and then double click by **System.DoCommands** text (such texts called _commands_) in the opened window.
 
